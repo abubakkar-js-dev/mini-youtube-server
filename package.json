@@ -1,0 +1,17 @@
+{
+  "name": "mini-youtube-server",
+  "version": "1.0.0",
+  "description": "mini youtube for video sharing plateform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt",
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "Abu Bakkar",
+  "license": "ISC"
+}
